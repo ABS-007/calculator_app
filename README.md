@@ -19,6 +19,7 @@ Step III- Input the second Number eg:- 9
 ![Screenshot from 2022-08-19 23-39-17](https://user-images.githubusercontent.com/93399136/190716900-b8a2af6c-473f-4897-ace9-4c4016d8e885.png)
 
 Output-
+
 if your press '=' it will return the ans of your calculation-
 
 i.e. 25+9=34
