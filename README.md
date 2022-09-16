@@ -27,4 +27,4 @@ i.e. 25+9=34
 ![Screenshot from 2022-08-19 23-39-25](https://user-images.githubusercontent.com/93399136/190717022-e9d82620-dce5-46de-8946-fb5c573b6d0e.png)
 
 
-if you want to further perform calculations on 34 repeat the above steps
+To further perform calculations on 34 repeat the above steps or to perform calculations on another number use'A/C' button to clear screen
